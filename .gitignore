@@ -1,0 +1,22 @@
+node_modules/
+
+# Build e Compilação
+dist/
+build/
+
+# Variáveis de Ambiente
+.env
+.env.*
+!.env.example
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Testes
+coverage/
+
+# Sistema Operacional
+.DS_Store
+Thumbs.db
